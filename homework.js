@@ -44,6 +44,9 @@ sortByLengthButton.addEventListener("click", () => {
 removeLastButton.addEventListener("click", () => {
     namen.pop();
     updateList();
+    alert("Neeeeeeeeiiiiiiiiin")
+    alert("OK. Dann doch.")
+    alert("Benutz doch einfach die kleinen Buttons.")
 });
 
 updateList();
